@@ -1,0 +1,26 @@
+customerID,gender,tenure,Contract,MonthlyCharges,Churn
+7590-VHVEG,Female,1,Month-to-month,29.85,No
+5575-GNVDE,Male,34,One year,56.95,No
+3668-QPYBK,Male,2,Month-to-month,53.85,Yes
+7795-CFOCW,Male,45,One year,42.30,No
+9237-HQITU,Female,2,Month-to-month,70.70,Yes
+9305-CDSKC,Female,8,Month-to-month,99.65,Yes
+1452-KIOVK,Male,22,Month-to-month,89.10,No
+6713-OKOMC,Female,10,Month-to-month,29.75,No
+7892-POOKP,Female,28,Month-to-month,104.80,Yes
+6388-TABGU,Male,62,One year,56.15,No
+9763-GRDHC,Female,13,Month-to-month,49.95,No
+7469-LKBCI,Male,16,Two year,18.95,No
+8091-TTBJJ,Male,58,One year,100.35,No
+0280-XJGEX,Male,49,Month-to-month,103.70,Yes
+5129-JCOSF,Male,25,Month-to-month,105.50,No
+9322-GRZKK,Male,69,Two year,113.25,No
+8191-XUDQA,Female,52,Two year,20.65,No
+1203-SJDQA,Female,64,Two year,115.50,No
+4190-MJDPA,Female,10,Month-to-month,55.90,Yes
+2290-OKDPA,Male,4,Month-to-month,80.65,Yes
+5512-JKDQA,Female,38,One year,90.45,No
+6623-GKDQA,Male,1,Month-to-month,45.30,Yes
+7734-LKDQA,Female,72,Two year,118.60,No
+8822-HKDQA,Male,5,Month-to-month,75.95,Yes
+9912-QKDQA,Female,12,One year,85.20,No
