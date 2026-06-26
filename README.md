@@ -9,6 +9,9 @@ Understanding why customers leave is critical for improving service offerings an
 1. **Contract Structure:** Customers on Month-to-Month contracts exhibit a significantly higher churn rate compared to those on One-Year or Two-Year terms.
 2. **Pricing Sensitivity:** Churned customers have a substantially higher average monthly charge compared to retained customers.
 
+### Visualized Insight
+![Churn Rate by Contract Type](./churn_by_contract.png)
+
 ---
 
 ## Technical Stack
